@@ -2,7 +2,6 @@
   
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🌱 I’m currently studying Web Programming in a Bootcamp, on Madrid (Spain)
   - 💬 Ask me about UX UI Design
@@ -11,7 +10,7 @@
   
   #### 📫 How to reach me:
   
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/desimotxo)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/desiree-carrizosa/))  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]([https://www.instagram.com/colourfullybydesita/])  &nbsp; <a href="mailto:desiresilva1987@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://desireecarrizosasilva_17752)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/desimotxo)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/desiree-carrizosa/))  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]([https://instagram.com/colourfullybydesita?igshid=MzMyNGUyNmU2YQ==])  &nbsp; <a href="mailto:desiresilva1987@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
   #### 👨🏻‍💻 Languages and Tools <br />
 
